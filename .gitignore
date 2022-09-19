@@ -19,7 +19,6 @@
 __pycache__/
 *.py[cod]
 *$py.class
-node_modules
 
 # C extensions
 *.so
@@ -103,3 +102,7 @@ ipython_config.py
 .git
 .svn
 .idea
+
+
+node_modules
+secret.key
